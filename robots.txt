@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace this placeholder before deployment with the confirmed production domain.
+Sitemap: https://REPLACE-WITH-CONFIRMED-DOMAIN.co.ke/sitemap.xml

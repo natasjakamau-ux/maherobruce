@@ -1,0 +1,9 @@
+# Local secrets and environment-specific settings
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+
+# Local deployment tooling
+.wrangler/

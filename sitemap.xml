@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace every placeholder host with the confirmed production domain before deployment. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://REPLACE-WITH-CONFIRMED-DOMAIN.co.ke/</loc></url>
+  <url><loc>https://REPLACE-WITH-CONFIRMED-DOMAIN.co.ke/pages/about.html</loc></url>
+  <url><loc>https://REPLACE-WITH-CONFIRMED-DOMAIN.co.ke/pages/media.html</loc></url>
+  <url><loc>https://REPLACE-WITH-CONFIRMED-DOMAIN.co.ke/pages/gallery.html</loc></url>
+  <url><loc>https://REPLACE-WITH-CONFIRMED-DOMAIN.co.ke/pages/contact.html</loc></url>
+  <url><loc>https://REPLACE-WITH-CONFIRMED-DOMAIN.co.ke/pages/watch-read.html</loc></url>
+</urlset>
